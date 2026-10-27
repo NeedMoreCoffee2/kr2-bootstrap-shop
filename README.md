@@ -63,3 +63,7 @@ kr2-bootstrap-shop/
 - `css/custom.css` — дополнительные стили проекта;
 - `images/` — изображения проекта;
 - `README.md` — описание проекта.
+
+## GitHub Pages
+
+Ссылка на опубликованный сайт: https://needmorecoffee2.github.io/kr2-bootstrap-shop/
