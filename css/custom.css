@@ -1,0 +1,17 @@
+body {
+  min-height: 100vh;
+}
+
+.placeholder-box {
+  height: 350px;
+}
+
+/* не используется */
+.placeholder-image {
+  min-height: 320px;
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
