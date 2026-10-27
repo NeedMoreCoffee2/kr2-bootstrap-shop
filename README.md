@@ -12,7 +12,7 @@
 
 Реализовано:
 
-- подключение Bootstrap через CDN;
+- Bootstrap подключен локально;
 - подключение `css/custom.css`;
 - шапка страницы;
 - Bootstrap-навигация;
@@ -50,7 +50,8 @@ kr2-bootstrap-shop/
 - создана страница каталога `catalog.html`;
 - создана страница товара `product.html`;
 - создана страница заявки `order.html`;
-- использованы компоненты `navbar`, `card`, `btn`, `badge`, `alert`, `modal`, `form-control`, `input-group`, `form-check`, `accordion`;
+- создана страница контактов `contacts.html`
+- использованы компоненты `navbar`, `card`, `btn`, `badge`, `modal`, `form-control`, `form-check`;
 - добавлен файл `css/custom.css` для минимальных доработок;
 - проект подготовлен к сдаче контрольной работы №2.
 
@@ -60,6 +61,7 @@ kr2-bootstrap-shop/
 - `catalog.html` — каталог товаров;
 - `product.html` — страница товара;
 - `order.html` — форма заявки;
+- `contacts.html` — страница контактов;
 - `css/custom.css` — дополнительные стили проекта;
 - `images/` — изображения проекта;
 - `README.md` — описание проекта.
